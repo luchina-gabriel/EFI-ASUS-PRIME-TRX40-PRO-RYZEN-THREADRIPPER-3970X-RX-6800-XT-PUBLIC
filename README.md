@@ -1,5 +1,7 @@
 # Hackintosh, Asus Prime TRX40-Pro [BIOS 1502], AMD Ryzen Threadripper 3970X, AMD Radeon RX 6800 XT
 
+![Portfolio](https://github.com/user-attachments/assets/2d64243e-6426-44e1-8cb5-d9759ff17e35)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.5)
